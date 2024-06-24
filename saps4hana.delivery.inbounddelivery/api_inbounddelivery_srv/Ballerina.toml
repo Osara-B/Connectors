@@ -1,0 +1,5 @@
+[package]
+org = "osa"
+name = "api_inbounddelivery_srv"
+version = "0.1.0"
+distribution = "2201.9.0"
